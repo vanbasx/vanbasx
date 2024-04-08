@@ -1,8 +1,7 @@
 [![header](https://github.com/vanbasx/vanbasx/blob/main/logo.png)](https://vanbasx.github.io/PortfolioV2/)
 
 # Hello! I'm a WordPress Developer
-#### Hello! My name is Ivan. I am a Wordpress developer who creates websites using technologies such as Html, Scss, Gulp, JavaScript and WordPress. I have been involved in providing technical support for websites, including content editing and fixing minor bugs, for a technical high school [TerraNova](https://terranova.edu.pl/fundacja-terra-nova/wroclaw/technikum-pl/).
-#### I am interested in information technology and its impact on business transformation. Recently, UI/UX design has become my hobby.
+#### Hello! My name is Ivan. I am a Wordpress developer who creates websites using technologies such as Html, Scss, Gulp, JavaScript and WordPress.
 
 ##
 
