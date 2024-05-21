@@ -21,3 +21,7 @@ Hello! My name is Ivan. I am a Wordpress developer who creates websites using te
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/vanbasx/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ivan-bas/)
+
+## My stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanbasx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
