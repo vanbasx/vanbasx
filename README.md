@@ -24,4 +24,4 @@ Hello! My name is Ivan. I am a Wordpress developer who creates websites using te
 
 ## My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanbasx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanbasx&layout=compact&theme=vision-friendly-dark)
