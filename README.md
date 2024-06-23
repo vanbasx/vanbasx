@@ -16,6 +16,8 @@ Hello! My name is Ivan. I am a Wordpress developer who creates websites using te
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp&logoColor=ff5252)
 ![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=WordPress&logoColor=4d4f61)
 ![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=WebPack&logoColor=5d68c9)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-090909?style=for-the-badge&logo=TailwindCss&logoColor=00DBFF)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=0091FF)
 
 ### Follow me
 
