@@ -1,29 +1,29 @@
 [![header](https://github.com/user-attachments/assets/8241880d-b517-4bd0-9253-919d1db3479c)](https://vanbasx.github.io/PortfolioV2/)
 
-# [Hello! I'm a WordPress Developer](https://vanbasx.github.io/PortfolioV2/)
-Hello! My name is Ivan. I am a Wordpress developer who creates websites using technologies such as Html, Scss, tailwindCss, Gulp, JavaScript, PHP and WordPress. 
+# 👨🏻‍💻 Ivan Bas
+**`FullStack Wordpress developer & Designer`**
 
+I am a fullstack WordPress developer. I specialize in building websites and plugins from scratch on the WordPress platform. When creating websites, I place a strong emphasis on performance, UI/UX, as well as optimizing and maintaining the readability of my code. My primary tech stack includes HTML, SCSS, PHP, JavaScript, WordPress, Tailwind CSS, and Docker.
+
+[Resume]() | [Portfolio]() | [LinkedIn]() | [Telegramm]()
 ##
 
+### 🚀 Languages and Tools
 
-### Languages and Tools
-
-![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=HTML5&logoColor=fc6f03)
-![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=CSS3&logoColor=4287f5)
-![Scss](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=Sass&logoColor=ff009d)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=PHP&logoColor=0088ff)
-![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp&logoColor=ff5252)
-![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=WordPress&logoColor=4d4f61)
-![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=WebPack&logoColor=5d68c9)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-090909?style=for-the-badge&logo=TailwindCss&logoColor=00DBFF)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=0091FF)
-
-### Follow me
-
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/vanbasx/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ivan-bas/)
-
-## My stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanbasx&layout=compact&theme=vision-friendly-dark)
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="SCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+<img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="TailwindCss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
+<img align="left" alt="Gulp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<br>
