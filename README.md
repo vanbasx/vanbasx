@@ -1,4 +1,4 @@
-[![header](https://github.com/vanbasx/vanbasx/blob/main/logo.png)](https://vanbasx.github.io/PortfolioV2/)
+[![header](https://github.com/user-attachments/assets/8241880d-b517-4bd0-9253-919d1db3479c)](https://vanbasx.github.io/PortfolioV2/)
 
 # [Hello! I'm a WordPress Developer](https://vanbasx.github.io/PortfolioV2/)
 Hello! My name is Ivan. I am a Wordpress developer who creates websites using technologies such as Html, Scss, tailwindCss, Gulp, JavaScript, PHP and WordPress. 
