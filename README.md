@@ -5,7 +5,7 @@
 
 I am a fullstack WordPress developer. I specialize in building websites and plugins from scratch on the WordPress platform. When creating websites, I place a strong emphasis on performance, UI/UX, as well as optimizing and maintaining the readability of my code. My primary tech stack includes HTML, SCSS, PHP, JavaScript, WordPress, Tailwind CSS, and Docker.
 
-[Resume](https://vanbasx.github.io/PortfolioV2/Ivan_Bas_WordPress_Developer_RESUME.pdf) | [Portfolio](https://vanbasx.github.io/PortfolioV2) | [LinkedIn](https://www.linkedin.com/in/ivan-bas) | [Telegramm](https://t.me/vanbasx)
+[Resume](https://vanbasx.github.io/PortfolioV2/Ivan_Bas_WordPress_Developer_RESUME.pdf) • [Portfolio](https://vanbasx.github.io/PortfolioV2) • [LinkedIn](https://www.linkedin.com/in/ivan-bas) • [Telegramm](https://t.me/vanbasx)
 ##
 
 ### 🚀 Languages and Tools
